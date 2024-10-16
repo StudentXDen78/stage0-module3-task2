@@ -2,13 +2,17 @@ package school.mjc.stage0.module3.task2;
 
 public class CopiedNames {
     public static void main(String[] args) {
-        int variable1 = 0;
-        int variable2 = 2000;
+        int variable = 0;
+        int variable1 = 2000;
         int value = 1000;
-        int variable3 = 4000;
+        int variable2 = 4000;
         int value1 = 3000;
         int variables = 5000;
         int variables1 = 7000;
         int value2 = 90000;
+        int value3 = 100000;
+        int myInteger = 1000000;
+        int myVar = 1234567;
+        int myInteger1 = 1234567;
     }
 }
